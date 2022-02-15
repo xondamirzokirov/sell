@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1086232143642",
+    "firebase_url": "https://market-ba773-default-rtdb.firebaseio.com",
+    "project_id": "market-ba773",
+    "storage_bucket": "market-ba773.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086232143642:android:10fa7668430a59b97a6ea3",
+        "android_client_info": {
+          "package_name": "com.example.kassa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086232143642-3k32hpjbr9n8oq4qrvft0hhhavvii8i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnUBgrnhT-xlQXOocMBgeYjJtckB2a_Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086232143642-3k32hpjbr9n8oq4qrvft0hhhavvii8i0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
